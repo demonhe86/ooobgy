@@ -1,0 +1,1 @@
+This project is developed as the home of ooobgy.<sup>_</sup>
